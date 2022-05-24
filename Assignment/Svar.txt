@@ -1,0 +1,5 @@
+Land med högst volym:
+Land med lägst volym:
+
+Kött med lägst pris är Komodo Dragon och
+dagen den hade lägst volym var 344
